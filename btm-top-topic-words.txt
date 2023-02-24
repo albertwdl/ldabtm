@@ -1,0 +1,5 @@
+Topic 0 | Coherence=-49.11 | Top words= 草头 服务 上海 味道 圈子 环境 服务员 没有 八宝 不错
+Topic 1 | Coherence=-52.64 | Top words= 没有 不错 圈子 就是 辣酱 正兴 上海 老字号 菜馆 味道
+Topic 2 | Coherence=-54.04 | Top words= 不错 味道 圈子 草头 上海 超高 八宝 就是 很多 帮菜
+Topic 3 | Coherence=-55.88 | Top words= 味道 老字号 草头 赤酱 上海 不错 八宝 圈子 好吃 香酥
+Topic 4 | Coherence=-44.85 | Top words= 上海 圈子 口味 有点 八宝 味道 不错 就是 草头 辣酱
